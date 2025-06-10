@@ -22,7 +22,8 @@ The repository is structured as follows:
 
 The MACE model used in this work is available at [zakmachachi/GO-MACE-23](https://github.com/zakmachachi/GO-MACE-23).
 
-Due to large file sizes, trajectory data will be shared via Zenodo in due course.
+Due to large file sizes, trajectory data can be found on Zenodo:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15630457.svg)](https://doi.org/10.5281/zenodo.15630457)
 
 ## Figures
 The following figures were constructed as follows:
