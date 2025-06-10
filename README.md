@@ -27,7 +27,7 @@ Due to large file sizes, trajectory data can be found on Zenodo:
 
 ## Figures
 The following figures were constructed as follows:
-* **Figure 1**: Structural model can be found at [zakmachachi/GO-MACE-23](https://github.com/zakmachachi/GO-MACE-23). Trajectory data will be shared via Zenodo in due course.
+* **Figure 1**: Structural model can be found at [zakmachachi/GO-MACE-23](https://github.com/zakmachachi/GO-MACE-23). Trajectory data can be found using the Zenodo link above.
 * **Figure 2**: Input structures can be found [here](structures). For panel a), b) and c), the structures are in `p1-p2-GO.xyz`. The table below maps the structure configurations for a "batch":
 
     - **Top row**: OH/O ratio
