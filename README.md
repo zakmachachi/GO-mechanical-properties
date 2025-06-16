@@ -2,7 +2,7 @@
 
 This repository contains code and data supporting the following work:
 
-> Zakariya El-Machachi, Bowen Cheng, Volker L. Deringer, _in preparation_
+> Zakariya El-Machachi, Bowen Cheng, Volker L. Deringer, **Chem. Commun.**, 2025, Accepted Manuscript
 
 The purpose is to enable readers to access the structural models and simulation code for reproducing the work. 
 
